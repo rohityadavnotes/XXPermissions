@@ -12,9 +12,6 @@
 
 * In addition, if you want to know more about Android 6.0 permissions, you can read this article [Android 6.0 operating permissions analysis](https://www.jianshu.com/p/6a4dff744031)
 
-![](art/1.jpg) ![](art/2.jpg) ![](art/3.jpg)
-![](art/4.jpg) ![](art/5.jpg) ![](art/6.jpg)
-
 #### Integration steps
 
 * Add to the `build.gradle` file in the project root directory
