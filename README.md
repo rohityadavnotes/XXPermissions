@@ -12,6 +12,14 @@
 
 * In addition, if you want to know more about Android 6.0 permissions, you can read this article [Android 6.0 operating permissions analysis](https://www.jianshu.com/p/6a4dff744031)
 
+|                   1               |                 2                 |                 3                 |                  4               |
+|-----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
+| <img src="art/1.png" width="250"> | <img src="art/2.png" width="250"> | <img src="art/3.png" width="250"> |<img src="art/4.png" width="250"> |
+
+|                  5                |                 6                 |                 7                 |
+|-----------------------------------|-----------------------------------|-----------------------------------|
+| <img src="art/5.png" width="250"> | <img src="art/6.png" width="250"> | <img src="art/7.png" width="250"> |
+
 #### Integration steps
 
 * Add to the `build.gradle` file in the project root directory
