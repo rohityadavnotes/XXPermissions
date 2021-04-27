@@ -14,7 +14,6 @@
 
 ![](art/1.jpg) ![](art/2.jpg) ![](art/3.jpg)
 ![](art/4.jpg) ![](art/5.jpg) ![](art/6.jpg)
-![](art/7.jpg)
 
 #### Integration steps
 
